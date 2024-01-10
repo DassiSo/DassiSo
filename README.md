@@ -12,7 +12,7 @@
             text-align: center; 
             font-size: 18px;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
-    WELCOME
+    WELCOME:)
   </p>
   <div style="display: flex; 
               justify-content: center;">
